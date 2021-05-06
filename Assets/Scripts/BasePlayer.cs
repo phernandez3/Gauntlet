@@ -5,8 +5,8 @@ using UnityEngine;
 public class BasePlayer : BaseUnit
 {
     // Unit
-    public int health;
-    public float moveSpeed;
+    // public int health;
+    // public float moveSpeed;
 
     // Player-controller stuff
     public int controllerSlot;
